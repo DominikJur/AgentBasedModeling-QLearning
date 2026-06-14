@@ -1,0 +1,6 @@
+nohup: zignorowane dane wejściowe
+  Activating project at `~/repo/AgentBasedModeling-DRL`
+Creating training timelapse with 14 checkpoints...
+Creating timelapse -> traffic_simulation_timelapse.mp4
+Saved traffic_simulation_timelapse.mp4
+Timelapse done!

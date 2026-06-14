@@ -1,0 +1,39 @@
+nohup: zignorowane dane wejściowe
+  Activating project at `~/repo/AgentBasedModeling-DRL`
+Rendering 1 car(s)...
+Creating timelapse -> final_model_1cars.mp4
+Saved final_model_1cars.mp4
+Rendering 2 car(s)...
+Creating timelapse -> final_model_2cars.mp4
+Saved final_model_2cars.mp4
+Rendering 3 car(s)...
+Creating timelapse -> final_model_3cars.mp4
+Saved final_model_3cars.mp4
+Rendering 4 car(s)...
+Creating timelapse -> final_model_4cars.mp4
+Saved final_model_4cars.mp4
+Rendering 5 car(s)...
+Creating timelapse -> final_model_5cars.mp4
+Saved final_model_5cars.mp4
+Rendering 6 car(s)...
+Creating timelapse -> final_model_6cars.mp4
+Saved final_model_6cars.mp4
+Rendering 7 car(s)...
+Creating timelapse -> final_model_7cars.mp4
+Saved final_model_7cars.mp4
+Rendering 8 car(s)...
+Creating timelapse -> final_model_8cars.mp4
+Saved final_model_8cars.mp4
+Rendering 9 car(s)...
+Creating timelapse -> final_model_9cars.mp4
+Saved final_model_9cars.mp4
+Rendering 10 car(s)...
+Creating timelapse -> final_model_10cars.mp4
+Saved final_model_10cars.mp4
+Rendering 11 car(s)...
+Creating timelapse -> final_model_11cars.mp4
+Saved final_model_11cars.mp4
+Rendering 12 car(s)...
+Creating timelapse -> final_model_12cars.mp4
+Saved final_model_12cars.mp4
+All renders done!

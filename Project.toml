@@ -1,0 +1,12 @@
+[deps]
+Agents = "46ada45e-f475-11e8-01d0-f70cc89e6671"
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
